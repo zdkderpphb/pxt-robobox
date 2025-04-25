@@ -3,7 +3,7 @@
     "description": "Erweiterung für die Robobox",
     "dependencies": {
         "core": "*",
-        "radio": "*",
+        "bluetooth": "*",
         "microphone": "*",
         "neopixel": "github:kittenbot/pxt-neopixel"
     },
